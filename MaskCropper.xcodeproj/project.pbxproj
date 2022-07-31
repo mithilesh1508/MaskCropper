@@ -13,7 +13,7 @@
 		4DE42735289295E100B94FE8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DE42733289295E100B94FE8 /* Main.storyboard */; };
 		4DE42737289295EC00B94FE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DE42736289295EC00B94FE8 /* Assets.xcassets */; };
 		4DE4273A289295EC00B94FE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DE42738289295EC00B94FE8 /* LaunchScreen.storyboard */; };
-		4DE427432892979100B94FE8 /* mithilesh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DE427422892979100B94FE8 /* mithilesh.jpg */; };
+		4DE427432892979100B94FE8 /* m.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DE427422892979100B94FE8 /* m.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		4DE42736289295EC00B94FE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DE42739289295EC00B94FE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4DE4273B289295EC00B94FE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4DE427422892979100B94FE8 /* mithilesh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mithilesh.jpg; sourceTree = "<group>"; };
+		4DE427422892979100B94FE8 /* m.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = m.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				4DE4272D289295E100B94FE8 /* AppDelegate.swift */,
 				4DE4272F289295E100B94FE8 /* SceneDelegate.swift */,
 				4DE42731289295E100B94FE8 /* ViewController.swift */,
-				4DE427422892979100B94FE8 /* mithilesh.jpg */,
+				4DE427422892979100B94FE8 /* m.jpg */,
 				4DE42733289295E100B94FE8 /* Main.storyboard */,
 				4DE42736289295EC00B94FE8 /* Assets.xcassets */,
 				4DE42738289295EC00B94FE8 /* LaunchScreen.storyboard */,
@@ -130,7 +130,7 @@
 				4DE4273A289295EC00B94FE8 /* LaunchScreen.storyboard in Resources */,
 				4DE42737289295EC00B94FE8 /* Assets.xcassets in Resources */,
 				4DE42735289295E100B94FE8 /* Main.storyboard in Resources */,
-				4DE427432892979100B94FE8 /* mithilesh.jpg in Resources */,
+				4DE427432892979100B94FE8 /* m.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
